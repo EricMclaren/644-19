@@ -18,7 +18,7 @@ import java.util.logging.Logger;
  * Fenêtre de saisie d'un nouvel employé:
  * - Singleton
  * 
- * @author VOTRE NOM
+ * @author Eric Mclaren - HEG Genève
  * @version 1.0
  */
 public class FrmNouveau extends java.awt.Frame {

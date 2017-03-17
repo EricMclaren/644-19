@@ -7,6 +7,7 @@ import java.util.Date;
  * Entité représentant un Employe
  *
  * @author Peter DAEHNE - HEG Genève
+  * @author Eric Mclaren - HEG Genève
  * @version 1.0
  */
 public class Employe {

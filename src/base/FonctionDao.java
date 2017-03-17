@@ -13,6 +13,7 @@ import java.util.ArrayList;
  * Gestion des accès à la base de données pour l'entité Fonction.
  *
  * @author Peter DAEHNE - HEG-Genève
+  * @author Eric Mclaren - HEG Genève
  * @version Version 0.1
 */
 public class FonctionDao {

@@ -4,6 +4,7 @@ package domaine;
  * Entité représentant un Departement
  *
  * @author Peter DAEHNE - HEG Genève
+  * @author Eric Mclaren - HEG Genève
  * @version 0.1
  */
 public class Departement {

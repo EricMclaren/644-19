@@ -8,6 +8,7 @@ import java.sql.SQLException;
  * Modélise la connexion à la base
  *
  * @author Peter DAEHNE - HEG Genève
+ * @author Eric Mclaren - HEG Genève
  * @version 1.1
  */
 public class ConnexionBase {

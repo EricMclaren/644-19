@@ -4,6 +4,7 @@ package presentation;
  * Programme principal de l'application de gestion des informations des employés
  *
  * @author Peter DAEHNE - HEG Genève
+  * @author Eric Mclaren - HEG Genève
  * @version 1.0
  */
 public class Main {

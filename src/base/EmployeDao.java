@@ -15,6 +15,7 @@ import java.util.Date;
  * Gestion des accès à la base de données pour l'entité Employe.
  *
  * @author Peter DAEHNE - HEG-Genève
+  * @author Eric Mclaren - HEG Genève
  * @version Version 1.0
 */
 public class EmployeDao {
